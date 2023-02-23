@@ -1,0 +1,134 @@
+header{
+    background-color: rgba(192, 192, 192, 0.318);
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 100;
+}
+header div{
+    display: flex;
+    justify-content:space-between;
+    padding:0px 50px ;
+    
+}
+.centre{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("pexels-ksenia-chernaya-3965534.jpg");
+    width:100%;
+    height:100%;
+    background-size:cover;
+    background-repeat:no-repeat ;
+    background-position: center;
+}
+.talk{
+    margin: 200px 100px 0px 100px;
+}
+.search{
+    margin: 30px 100px 100px;
+    
+}
+.head{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.class{
+    display: flex;
+    height: 300px;
+    padding-left: 50px;
+}
+.class .con{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+
+}
+.img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1; 
+}
+.col{
+    color: rgb(255, 0, 0);
+}
+.general .talk{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.prag{
+    margin: -5px;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -150px;
+}
+.afef{color: rgba(152, 148, 148, 0.711);}
+.general{
+    background-color: silver;
+}
+.last{
+    background-color: silver;
+    margin: 100px 0px;
+    padding: 150px 150px 0px 150px;
+}
+.ques{
+    height: 100%;
+    width: 109%;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    margin-left: -150px;
+    padding: 100px;
+}
+.question{
+    color: green;
+}
+.quest{
+    list-style-type: none;
+}
+.lastt{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.lasst{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{ 
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+}
+a {text-decoration: none; }
+.fooot{
+    display: flex;
+    justify-content:center;
+}
+.feet{
+    margin-left: 170px;
+}
+.fot{
+    display: flex;
+    justify-content: center;
+    margin-left: 630px;
+}
+.feeet{
+    margin-left: 120px;
+}
+ul{
+    list-style-type: none;
+}
+
