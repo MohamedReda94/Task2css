@@ -91,7 +91,6 @@ nav .left{
     background-size:cover;
     background-repeat:no-repeat ;
     background-position: center;
-    border: 1px solid;
 }
 .talk{
     margin: 200px 100px 0px 100px;
@@ -161,6 +160,7 @@ nav .left{
 .img{
     height: 100%;
     width: 100%;
+    width: 300px;
     position: absolute;
     z-index: -1; 
 }
